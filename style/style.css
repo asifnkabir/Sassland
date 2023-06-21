@@ -95,6 +95,7 @@ img {
 .single-item{
 
     margin: 70px 0;
+    overflow: hidden;
     
 }
 
@@ -134,4 +135,44 @@ img {
 .single-item-3{
 
     margin: 70px 0;
+}
+
+/* footer */
+
+footer{
+
+    background-color: #eee1fd;
+    padding-top: 50px;
+
+
+}
+
+.footer-item-parent{
+    display: flex;
+    
+}
+
+.footer-item{
+
+    width: 25%;
+}
+
+.footer-item-img{
+
+}
+
+.footer-item-p{
+
+}
+
+.footer-item h5{
+    
+}
+
+.footer-item li{
+
+}
+
+.footer-item li a{
+    
 }
